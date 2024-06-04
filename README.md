@@ -5,10 +5,9 @@
     <h1 align="center">TORGRAB</h1>
 </p>
 <p align="center">
-    <em><code>► Darkweb Onion Link Extraction made easy.</code></em>
+    <em><code>► Darkweb Onion Link Extraction Made Easy.</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/DefinitelyNotWilko/TorGrab?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/DefinitelyNotWilko/TorGrab?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/DefinitelyNotWilko/TorGrab?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/DefinitelyNotWilko/TorGrab?style=default&color=0080ff" alt="repo-language-count">
@@ -23,7 +22,6 @@
 
 - [ Overview](#-overview)
 - [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
 - [ Modules](#-modules)
 - [ Getting Started](#-getting-started)
   - [ Installation](#-installation)
@@ -48,24 +46,14 @@
 
 ---
 
-##  Repository Structure
-
-```sh
-└── TorGrab/
-    ├── requirements.txt
-    └── torgrab.py
-```
-
----
-
 ##  Modules
 
-<details closed><summary>.</summary>
+<details open><summary>.</summary>
 
 | File                                                                                           | Summary                         |
 | ---                                                                                            | ---                             |
-| [torgrab.py](https://github.com/DefinitelyNotWilko/TorGrab/blob/master/torgrab.py)             | <code>► INSERT-TEXT-HERE</code> |
-| [requirements.txt](https://github.com/DefinitelyNotWilko/TorGrab/blob/master/requirements.txt) | <code>► INSERT-TEXT-HERE</code> |
+| [torgrab.py](https://github.com/DefinitelyNotWilko/TorGrab/blob/master/torgrab.py)             | The main TorGrab Python Script. |
+| [requirements.txt](https://github.com/DefinitelyNotWilko/TorGrab/blob/master/requirements.txt) | Requirements to be installed to make TorGrab function. |
 
 </details>
 
@@ -79,7 +67,7 @@
 
 ###  Installation
 
-<h4>From <code>source</code></h4>
+<h4>From <code>Github</code></h4>
 
 > 1. Clone the TorGrab repository:
 >
@@ -124,7 +112,7 @@ Contributions are welcome! Here are several ways you can contribute:
 - **[Submit Pull Requests](https://github.com/DefinitelyNotWilko/TorGrab/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 
-<details closed>
+<details open>
 <summary>Contributing Guidelines</summary>
 
 1. **Fork the Repository**: Start by forking the project repository to your github account.
@@ -149,15 +137,6 @@ Contributions are welcome! Here are several ways you can contribute:
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="center">
-   <a href="https://github.com{/DefinitelyNotWilko/TorGrab/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=DefinitelyNotWilko/TorGrab">
-   </a>
-</p>
-</details>
 
 ---
 
